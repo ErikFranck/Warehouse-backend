@@ -9,10 +9,6 @@ typedef struct merch_in_cart merch_in_cart_t;
  * @author Erik Franck
  * @date 13 November 2019
  * @brief Contains the functions that creates and manipulates carts.
- *
- * Here typically goes a more extensive explanation of what the header
- * defines. Doxygens tags are words preceeded by either a backslash @\
- * or by an at symbol @@.
  *  */
 
 
